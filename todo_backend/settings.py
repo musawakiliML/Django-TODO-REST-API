@@ -33,6 +33,8 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     # User Apps
     'todo',
+    'rest_framework',
+    'api',
     
     # Admin Apps 
     'django.contrib.admin',
